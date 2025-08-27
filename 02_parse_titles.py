@@ -14,4 +14,4 @@ print("Book informatiuns: ")
 
 for info in infos:
     print("Titles:-", info.get("title"))
-    print("Links:-", info.get("href"))
+    print("Link:-", info.get("href"))
